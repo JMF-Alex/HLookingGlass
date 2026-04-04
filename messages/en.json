@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "home": "Home",
+    "looking_glass": "Looking Glass"
+  },
+  "hero": {
+    "title": "Looking Glass",
+    "subtitle": "Network Diagnostic Tool",
+    "description": "Check network information using different diagnostic tools and test files.",
+    "server_info": "Server Information",
+    "location": "Location",
+    "asn": "ASN",
+    "ipv4": "IPv4",
+    "ipv6": "IPv6",
+    "visitor_ip": "Your IP Address"
+  },
+  "looking_glass": {
+    "title": "Network tools",
+    "connectivity": "Connectivity tests",
+    "connectivity_desc": "Test connectivity using standard network tools.",
+    "downloads": "Test Files",
+    "downloads_desc": "Test your download speed using files of different sizes hosted on our server.",
+    "ping": "Ping",
+    "ping6": "Ping6",
+    "traceroute": "Traceroute",
+    "traceroute6": "Traceroute6",
+    "bgp": "BGP",
+    "bgp6": "BGP6",
+    "mtr": "MTR",
+    "size_100mb": "100 MB",
+    "size_1gb": "1 GB",
+    "size_10gb": "10 GB",
+    "download": "Download",
+    "run_test": "Run test",
+    "host_placeholder": "Host or IP address",
+    "select_test": "Select a test",
+    "output": "Output",
+    "running": "Running",
+    "error": "Error",
+    "done": "Done",
+    "ready": "Ready",
+    "waiting": "Waiting for command...",
+    "retry": "Retry again later"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "back_to_top": "Back to top"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "looking_glass": "Looking Glass"
+  },
+  "hero": {
+    "title": "Looking Glass",
+    "subtitle": "Herramienta de Diagnóstico de Red",
+    "description": "Consulte la información de red madiante diferentes herramientas de diagnóstico y archivos de prueba.",
+    "server_info": "Información del servidor",
+    "location": "Ubicación",
+    "asn": "ASN",
+    "ipv4": "IPv4",
+    "ipv6": "IPv6",
+    "visitor_ip": "Tu dirección IP"
+  },
+  "looking_glass": {
+    "title": "Herramientas de red",
+    "connectivity": "Pruebas de red",
+    "connectivity_desc": "Prueba la conectividad utilizando herramientas de red estándar.",
+    "downloads": "Archivos de prueba",
+    "downloads_desc": "Prueba tu velocidad de descarga utilizando archivos de diferentes tamaños alojados en nuestro servidor.",
+    "ping": "Ping",
+    "ping6": "Ping6",
+    "traceroute": "Traceroute",
+    "traceroute6": "Traceroute6",
+    "bgp": "BGP",
+    "bgp6": "BGP6",
+    "mtr": "MTR",
+    "size_100mb": "100 MB",
+    "size_1gb": "1 GB",
+    "size_10gb": "10 GB",
+    "download": "Descargar",
+    "run_test": "Ejecutar prueba",
+    "host_placeholder": "Host o dirección IP",
+    "select_test": "Selecciona una prueba",
+    "output": "Salida",
+    "running": "Ejecutando",
+    "error": "Error",
+    "done": "Listo",
+    "ready": "Listo",
+    "waiting": "Esperando comando...",
+    "retry": "Reintenta más tarde"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados.",
+    "back_to_top": "Volver arriba"
+  }
+}

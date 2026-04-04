@@ -1,40 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<a id="readme-top"></a>
 
-## Getting Started
+<p align="center">
+  <a href="https://github.com/JMF-Alex/Portfolio/stargazers"><img src="https://img.shields.io/github/stars/JMF-Alex/Portfolio?style=for-the-badge" alt="Stargazers"></a> <a href="https://github.com/JMF-Alex/Portfolio/issues"><img src="https://img.shields.io/github/issues/JMF-Alex/Portfolio?style=for-the-badge" alt="Issues"></a> <a href="https://github.com/JMF-Alex/Portfolio/blob/main/LICENSE"><img src="https://img.shields.io/github/license/JMF-Alex/Portfolio?style=for-the-badge" alt="License"></a>
+</p>
 
-First, run the development server:
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"></a> <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a> <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a> <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"></a> <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a> <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></a> <a href="#"><img src="https://img.shields.io/badge/TSX-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TSX"></a> <a href="https://postcss.org/"><img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white" alt="PostCSS"></a> <a href="#"><img src="https://img.shields.io/badge/Size-<1MB-green?style=for-the-badge" alt="Size"></a>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Table of Contents
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. [Built With](#built-with)
+2. [Usage](#usage)
+3. [License](#license)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Built With
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This project was developed using:
 
-## Learn More
+- **CSS3** for design and responsive layout
+- **TypeScript** for type-safe development
+- **React** for user interface components
+- **Next.js** for full-stack React applications
+- **Node.js** for backend development
+- **Vercel** for deployment and hosting
+- **TSX** for TypeScript React components
 
-To learn more about Next.js, take a look at the following resources:
+Repository: [github.com/JMF-Alex/Portfolio](https://github.com/JMF-Alex/Portfolio)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Usage
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Once opened, you can:
 
-## Deploy on Vercel
+- Navigate through the application interface
+- Use the main features as intended
+- Data remains saved locally in your browser
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Distributed under the MIT license.
 
-# HLookingGlass
-
-Modern looking glass web application built with NextJS and TailwindCSS
+See the [`LICENSE`](LICENSE) file for more information.
